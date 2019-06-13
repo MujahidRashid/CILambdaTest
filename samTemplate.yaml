@@ -16,5 +16,5 @@ Resources:
         getAZsAPI:
           Type: Api
           Properties:
-            Path: /test
+            Path: /testing
             Method: get
